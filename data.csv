@@ -1,0 +1,3 @@
+key,summary,desc,type
+RS,created for RS,created from file for story,Story
+RA,created for RA,created from file for bug,Bug
