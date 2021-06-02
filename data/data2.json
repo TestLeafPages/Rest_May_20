@@ -1,0 +1,13 @@
+{
+	"fields": {
+		"project": {
+			"key": "RS"
+		},
+		"summary": "create from file2",
+		"description": "Creating of an issue using RestAssured from file2",
+		"issuetype": {
+			"name": "Story"
+		}
+	}
+}
+
