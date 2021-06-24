@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "RA"
+        },
+        "summary": "create issue in MAR project",
+        "description": "Creating of an issue using project keys and issue type names using the REST API",
+        "issuetype": {
+            "name": "Bug"
+        }
+    }
+}
